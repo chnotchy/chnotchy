@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,html,css,js,py,c,cpp,java,vscode,androidstudio,eclipse,emacs,git,github,firebase,flutter,materialui,react,nextjs,astro,figma,ae&theme=dark&perline=9)](https://skillicons.dev)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notchcoder&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notchcoder&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
