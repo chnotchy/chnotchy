@@ -1,6 +1,6 @@
 <h2>
   Notchy 
-  <a href="https://github.com/chnotchy" style="color: #fff8; transition: 0.3s;" onmouseover="this.style.color='#fffe';" onmouseout="this.style.color='#fff8';">@chnotchy</a>
+  <span style="color: #fff8;">@chnotchy</span>
 </h2>
 
 ### My Stats
