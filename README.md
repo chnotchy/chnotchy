@@ -1,22 +1,22 @@
-### Hi there 👋
+<h2>
+  Notchy 
+  <a href="https://github.com/chnotchy" style="color: #fff8; transition: 0.3s;" onmouseover="this.style.color='#fffe';" onmouseout="this.style.color='#fff8';">@chnotchy</a>
+</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,html,css,js,py,c,cpp,java,vscode,androidstudio,eclipse,emacs,git,github,firebase,flutter,materialui,react,nextjs,astro,figma,ae&theme=dark&perline=9)](https://skillicons.dev)
+### My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notchcoder&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chnotchy&count_private=true&border_radius=10&border_color=fff6&show_icons=true&icon_color=fffa&bg_color=40,f05995bb,ca46fabb,30a3f0bb&title_color=fffc&text_color=fffc)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notchcoder&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chnotchy&layout=compact&count_private=true&border_radius=10&border_color=fff6&show_icons=true&icon_color=fffa&bg_color=40,f05995bb,ca46fabb,30a3f0bb&title_color=fffc&text_color=fffc)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**notchcoder/notchcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,html,css,js,py,c,cpp,java,git,github,firebase,flutter,materialui,react,nextjs,astro&theme=dark&perline=9)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Editors
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio&theme=dark&perline=9)](https://skillicons.dev)
+
+### Design Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ae&theme=dark&perline=9)](https://skillicons.dev)
